@@ -18,11 +18,4 @@ This is a simple to-do list Chrome extension.
 3. Click on the ❌ button next to a task to delete it from the list.
 4. Enjoy organizing your tasks with this simple to-do list extension!
 
-## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
